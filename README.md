@@ -2,7 +2,7 @@
 
 This is a small workflow that leverages Tim Pope's [rumember](https://github.com/tpope/rumember) to quickly add tasks to [Remember the Milk](https://www.rememberthemilk.com) via [Alfred](https://www.alfredapp.com/)
 
-It is *heavily* based on [Matthew O'Riordan's workflow](https://github.com/mattheworiordan/alfred-remember-the-milk-plugin), with a few changes:
+It is *heavily* based on [Matthew O'Riordan's workflow](http://www.alfredforum.com/topic/3648-remember-the-milk/)/[GitHub](https://github.com/mattheworiordan/alfred-remember-the-milk-plugin), with a few changes:
 
 * uses zsh instead of bash
 * different icon (which I prefer in the Solarized-Dark theme I use with Alfred)
